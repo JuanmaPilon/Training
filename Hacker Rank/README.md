@@ -1,0 +1,1 @@
+Bunch of excersises involving logic / algorithms / data structures / etc, that are resolved in HackerRank by me.
